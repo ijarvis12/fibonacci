@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 function fib(){
     if [[ $1 -eq 1 ]]; then
