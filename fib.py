@@ -12,7 +12,7 @@ def fib(n: int, x: int, y: int):
 
 if __name__ == '__main__':
         print("Calculate the Fibonacci Sequence")
-        print("Enter Fib Number to Go Until:")
+        print("Enter Fib Number To Go Until:")
         n = input()
         try:
                 n = int(n)
