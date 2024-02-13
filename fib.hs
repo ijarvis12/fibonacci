@@ -18,4 +18,4 @@ main = do
   putStrLn "\nThe Sequence:"
   putStrLn "1"
   putStrLn "1"
-  fib (abs n) 1 1
+  fib (max (abs n) 2) 1 1
